@@ -1,0 +1,26 @@
+Function name
+time array time Linked_List
+Concat
+979 1.22242e+06 
+Array better is 1249 times faster than a Linked_List
+Insert
+24719 290767 
+Array better is 12 times faster than a Linked_List
+Prepend
+508 2686 
+Array better is 5 times faster than a Linked_List
+Append
+25406 278391 
+Array better is 11 times faster than a Linked_List
+Substr
+14241 2.2589e+06 
+Array better is 159 times faster than a Linked_List
+Find
+2531 6.16259e+06 
+Array better is 2435 times faster than a Linked_List
+Get
+48 24540 
+Array better is 511 times faster than a Linked_List
+Replace
+188 84478 
+Array better is 449 times faster than a Linked_List
